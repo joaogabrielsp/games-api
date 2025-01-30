@@ -13,9 +13,7 @@ public class GameDTO {
     private String platforms;
     private Double score;
     private String imgUrl;
-
     private String shortDescription;
-
     private String longDescription;
 
     public GameDTO(){
