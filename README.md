@@ -17,12 +17,13 @@ recuperar informações e modificar a ordem dos jogos dentro das listas.
 
 <h2>Tecnologias utilizadas</h2>
 
-- Java
-- Spring Boot
-- Maven
-- PostgreSQL (Banco de dados principal)
-- H2 Database (Banco de dados em memória para testes)
-- Postman (Teste de endpoints)
+- Java - Linguagem principal do back-end
+- Spring Boot - Framework para aplicação web
+- Spring Data JPA - Abstração para persistência de dados
+- Maven - Gerenciador de dependências
+- PostgreSQL - Banco de dados relacional principal
+- H2 Database - Banco de dados em memória para testes
+- Postman - Teste de endpoints
 
 <h2>Endpoints Disponíveis</h2>
 
